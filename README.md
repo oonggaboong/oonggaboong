@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizky Aprilla Saputra</h1>
-<h3 align="center">A proud Indonesian oil refinery maintenance engineer. Nowadays, I have some concerns about contributing to chemical and energy companies' digital transformation (DX).</h3>
+<h3 align="center">A proud Indonesian oil refinery maintenance engineer. Came to Japan in 2013 as a recipient of the MEXT Scholarship. Actively seeking opportunities to participate in the global development of sustainable and renewable energy. Aspired to be a professional generalist in energy management fields. Nowadays, I have some concerns about contributing to chemical and energy companies' digital transformation (DX)..</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
