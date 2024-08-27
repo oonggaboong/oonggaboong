@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rizky Aprilla Saputra</h1>
-<h3 align="center">A proud Indonesian oil refinery maintenance engineer. Came to Japan in 2013 as a recipient of the MEXT Scholarship. Actively seeking opportunities to participate in the global development of sustainable and renewable energy. Aspired to be a professional generalist in energy management fields. Nowadays, I have some concerns about contributing to chemical and energy companies' digital transformation (DX)..</h3>
+<h1 align="center">Hi 👋, I'm Itsuki "Tate" Emoto!</h1>
+<h3 align="center">Indonesian by blood, Japanese by citizenship. Have experience working at an oil refinery as a maintenance engineer. Came to Japan in 2013 as a recipient of the MEXT Scholarship. Actively seeking opportunities to participate in the global development of sustainable and renewable energy. Aspired to be a professional generalist in energy management fields. Nowadays, I have some concerns about contributing to chemical and energy companies' digital transformation (DX).</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oonggaboong&label=Profile%20views&color=0e75b6&style=flat" alt="oonggaboong" /> </p>
 
-- 🌱 I’m currently learning **Cloud computing**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://oonggaboong.github.io/portfolio.github.io/](https://oonggaboong.github.io/portfolio.github.io/)
 
-- 📝 I regularly write articles on [oonggaboong.wordpress.com](oonggaboong.wordpress.com)
+- 📝 Sometimes I write articles on [oonggaboong.wordpress.com](oonggaboong.wordpress.com)
 
 - 💬 Ask me about **chemistry, energy news, and global economy**
 
-- 📫 How to reach me **muhammadrizkyas@gmail.com**
+- 📫 How to reach me **tate.emoto@gmail.com**
 
 - 📄 Know about my experiences [https://oonggaboong.github.io/portfolio.github.io/](https://oonggaboong.github.io/portfolio.github.io/)
-
-- ⚡ Fun fact **I love We Bare Bears, lol.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
